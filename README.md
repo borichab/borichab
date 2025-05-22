@@ -26,12 +26,20 @@ Git · Postman · Maven · Docker (learning) · GitHub Actions (learning)
 ## 🚀 Featured Projects
 
 ### 📱 [Campus Guide](https://github.com/borichab/CampusGuide)
-> An Android application to enhance the campus experience using Google Maps and Nearby Share APIs.  
-Tech: Java · Google Maps API · Firebase · Git
+> A dynamic Android application that helps students, staff, and visitors navigate a university campus.  
+Key features include:
+- Interactive Google Maps-powered campus navigation
+- Real-time communication using a custom “Walkei-Talkei” module with Nearby Connection API
+- Structured course catalog by subject and semester
+Tech: Java · Google Maps API · Nearby Connections API · Firebase · Android SDK
 
 ### 🍽️ [Mensa Food Review](https://github.com/borichab/mensa-food-review)
-> Users can submit and view food reviews from various Mensa locations.  
-Tech: Java · Firebase Realtime DB · XML
+> Android app that allows users to submit and view reviews of cafeteria food at different Mensa locations.  
+Key features include:
+- User-submitted ratings, reviews, and food images
+- City-based filtering of reviews
+- Firebase backend for real-time data syncing
+Tech: Java · Firebase Realtime DB · XML · Android SDK
 
 ### 💈 [Beauty Salon Management System](https://github.com/borichab/beauty-salon)
 > A Laravel-based web platform for managing parlour owners, services, and appointments.
