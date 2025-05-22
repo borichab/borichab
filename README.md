@@ -69,4 +69,5 @@ Tech: PHP · Laravel · MySQL · Bootstrap · JavaScript
 
 > 🧠 *"आपत्ति ही आविष्कार का रास्ता है"*  
 > *"Adversity is the path to invention."*
+
 🔍 Actively applying for **Backend, Frontend, Full Stack, or Software Developer** roles — available immediately.
