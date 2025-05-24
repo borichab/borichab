@@ -63,7 +63,7 @@ Tech: PHP · Laravel · MySQL · Bootstrap · JavaScript
 
 - ✉️ bhartpboricha@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhartkumar-boricha/)  
-- 💻 [Portfolio (Coming Soon)](https://github.com/borichab)
+- 💻 [Portfolio](https://portfolio-b7kp.vercel.app/)
 
 ---
 
