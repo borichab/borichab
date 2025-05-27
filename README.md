@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Java · JavaScript · PHP · C# · HTML · CSS · SQL
+Java · JavaScript · Typescript · PHP · C# · HTML · CSS · SQL
 
 **Frameworks/Libraries:**  
 Spring Boot · React.js · Vue 3 · Laravel · Petite Vue
@@ -52,8 +52,7 @@ Tech: PHP · Laravel · MySQL · Bootstrap · JavaScript
 
 ## 📚 Currently Learning
 
-- Docker & Containerized Deployment  
-- TypeScript for scalable frontend development  
+- Docker & Containerized Deployment   
 - CI/CD pipelines using GitHub Actions  
 - Spring Security and OAuth2 authentication
 
